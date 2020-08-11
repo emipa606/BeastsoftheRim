@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jerbal.label>jerbal</Jerbal.label>
+  <Jerbal.labelPlural>jerbals</Jerbal.labelPlural>
+  <Jerbal.lifeStages.0.label>dromedary calf</Jerbal.lifeStages.0.label>
+  <Jerbal.lifeStages.0.labelPlural>dromedary calfs</Jerbal.lifeStages.0.labelPlural>
+  <Jerbal.lifeStages.0.labelMale>male dromedary calf</Jerbal.lifeStages.0.labelMale>
+  <Jerbal.lifeStages.0.labelMalePlural>male dromedary calfs</Jerbal.lifeStages.0.labelMalePlural>
+  <Jerbal.lifeStages.0.labelFemale>female dromedary calf</Jerbal.lifeStages.0.labelFemale>
+  <Jerbal.lifeStages.0.labelFemalePlural>female dromedary calfs</Jerbal.lifeStages.0.labelFemalePlural>
+  <Jerbal.lifeStages.1.label>jerbal</Jerbal.lifeStages.1.label>
+  <Jerbal.lifeStages.1.labelPlural>jerbal</Jerbal.lifeStages.1.labelPlural>
+  <Jerbal.lifeStages.1.labelMale>male jerbal</Jerbal.lifeStages.1.labelMale>
+  <Jerbal.lifeStages.1.labelMalePlural>male jerbals</Jerbal.lifeStages.1.labelMalePlural>
+  <Jerbal.lifeStages.1.labelFemale>female jerbal</Jerbal.lifeStages.1.labelFemale>
+  <Jerbal.lifeStages.1.labelFemalePlural>female jerbals</Jerbal.lifeStages.1.labelFemalePlural>
+  <Jerbal.lifeStages.2.label>jerbal</Jerbal.lifeStages.2.label>
+  <Jerbal.lifeStages.2.labelPlural>jerbal</Jerbal.lifeStages.2.labelPlural>
+  <Jerbal.lifeStages.2.labelMale>male jerbal</Jerbal.lifeStages.2.labelMale>
+  <Jerbal.lifeStages.2.labelMalePlural>male jerbals</Jerbal.lifeStages.2.labelMalePlural>
+  <Jerbal.lifeStages.2.labelFemale>female jerbal</Jerbal.lifeStages.2.labelFemale>
+  <Jerbal.lifeStages.2.labelFemalePlural>female jerbals</Jerbal.lifeStages.2.labelFemalePlural>
+  <Jerbal.labelMale>male jerbal</Jerbal.labelMale>
+  <Jerbal.labelMalePlural>male jerbals</Jerbal.labelMalePlural>
+  <Jerbal.labelFemale>female jerbal</Jerbal.labelFemale>
+  <Jerbal.labelFemalePlural>female jerbals</Jerbal.labelFemalePlural>
+
+
+</LanguageData>

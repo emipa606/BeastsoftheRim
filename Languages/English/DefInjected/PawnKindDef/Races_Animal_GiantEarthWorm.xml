@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Worm.label>worm</Worm.label>
+  <Worm.labelPlural>worms</Worm.labelPlural>
+  <Worm.lifeStages.0.label>worm</Worm.lifeStages.0.label>
+  <Worm.lifeStages.0.labelPlural>worm</Worm.lifeStages.0.labelPlural>
+  <Worm.lifeStages.0.labelMale>male worm</Worm.lifeStages.0.labelMale>
+  <Worm.lifeStages.0.labelMalePlural>male worms</Worm.lifeStages.0.labelMalePlural>
+  <Worm.lifeStages.0.labelFemale>female worm</Worm.lifeStages.0.labelFemale>
+  <Worm.lifeStages.0.labelFemalePlural>female worms</Worm.lifeStages.0.labelFemalePlural>
+  <Worm.lifeStages.1.label>worm</Worm.lifeStages.1.label>
+  <Worm.lifeStages.1.labelPlural>worm</Worm.lifeStages.1.labelPlural>
+  <Worm.lifeStages.1.labelMale>male worm</Worm.lifeStages.1.labelMale>
+  <Worm.lifeStages.1.labelMalePlural>male worms</Worm.lifeStages.1.labelMalePlural>
+  <Worm.lifeStages.1.labelFemale>female worm</Worm.lifeStages.1.labelFemale>
+  <Worm.lifeStages.1.labelFemalePlural>female worms</Worm.lifeStages.1.labelFemalePlural>
+  <Worm.lifeStages.2.label>worm</Worm.lifeStages.2.label>
+  <Worm.lifeStages.2.labelPlural>worm</Worm.lifeStages.2.labelPlural>
+  <Worm.lifeStages.2.labelMale>male worm</Worm.lifeStages.2.labelMale>
+  <Worm.lifeStages.2.labelMalePlural>male worms</Worm.lifeStages.2.labelMalePlural>
+  <Worm.lifeStages.2.labelFemale>female worm</Worm.lifeStages.2.labelFemale>
+  <Worm.lifeStages.2.labelFemalePlural>female worms</Worm.lifeStages.2.labelFemalePlural>
+  <Worm.labelMale>male worm</Worm.labelMale>
+  <Worm.labelMalePlural>male worms</Worm.labelMalePlural>
+  <Worm.labelFemale>female worm</Worm.labelFemale>
+  <Worm.labelFemalePlural>female worms</Worm.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Toraton.label>toraton</Toraton.label>
+  <Toraton.labelPlural>toratons</Toraton.labelPlural>
+  <Toraton.lifeStages.0.label>toraton</Toraton.lifeStages.0.label>
+  <Toraton.lifeStages.0.labelPlural>toraton</Toraton.lifeStages.0.labelPlural>
+  <Toraton.lifeStages.0.labelMale>male toraton</Toraton.lifeStages.0.labelMale>
+  <Toraton.lifeStages.0.labelMalePlural>male toratons</Toraton.lifeStages.0.labelMalePlural>
+  <Toraton.lifeStages.0.labelFemale>female toraton</Toraton.lifeStages.0.labelFemale>
+  <Toraton.lifeStages.0.labelFemalePlural>female toratons</Toraton.lifeStages.0.labelFemalePlural>
+  <Toraton.lifeStages.1.label>toraton</Toraton.lifeStages.1.label>
+  <Toraton.lifeStages.1.labelPlural>toraton</Toraton.lifeStages.1.labelPlural>
+  <Toraton.lifeStages.1.labelMale>male toraton</Toraton.lifeStages.1.labelMale>
+  <Toraton.lifeStages.1.labelMalePlural>male toratons</Toraton.lifeStages.1.labelMalePlural>
+  <Toraton.lifeStages.1.labelFemale>female toraton</Toraton.lifeStages.1.labelFemale>
+  <Toraton.lifeStages.1.labelFemalePlural>female toratons</Toraton.lifeStages.1.labelFemalePlural>
+  <Toraton.lifeStages.2.label>toraton</Toraton.lifeStages.2.label>
+  <Toraton.lifeStages.2.labelPlural>toraton</Toraton.lifeStages.2.labelPlural>
+  <Toraton.lifeStages.2.labelMale>male toraton</Toraton.lifeStages.2.labelMale>
+  <Toraton.lifeStages.2.labelMalePlural>male toratons</Toraton.lifeStages.2.labelMalePlural>
+  <Toraton.lifeStages.2.labelFemale>female toraton</Toraton.lifeStages.2.labelFemale>
+  <Toraton.lifeStages.2.labelFemalePlural>female toratons</Toraton.lifeStages.2.labelFemalePlural>
+  <Toraton.labelMale>male toraton</Toraton.labelMale>
+  <Toraton.labelMalePlural>male toratons</Toraton.labelMalePlural>
+  <Toraton.labelFemale>female toraton</Toraton.labelFemale>
+  <Toraton.labelFemalePlural>female toratons</Toraton.labelFemalePlural>
+
+
+</LanguageData>

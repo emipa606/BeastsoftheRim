@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zebra.label>zebra</Zebra.label>
+  <Zebra.labelPlural>zebras</Zebra.labelPlural>
+  <Zebra.lifeStages.0.label>zebra</Zebra.lifeStages.0.label>
+  <Zebra.lifeStages.0.labelPlural>zebra</Zebra.lifeStages.0.labelPlural>
+  <Zebra.lifeStages.0.labelMale>male zebra</Zebra.lifeStages.0.labelMale>
+  <Zebra.lifeStages.0.labelMalePlural>male zebras</Zebra.lifeStages.0.labelMalePlural>
+  <Zebra.lifeStages.0.labelFemale>female zebra</Zebra.lifeStages.0.labelFemale>
+  <Zebra.lifeStages.0.labelFemalePlural>female zebras</Zebra.lifeStages.0.labelFemalePlural>
+  <Zebra.lifeStages.1.label>zebra</Zebra.lifeStages.1.label>
+  <Zebra.lifeStages.1.labelPlural>zebra</Zebra.lifeStages.1.labelPlural>
+  <Zebra.lifeStages.1.labelMale>male zebra</Zebra.lifeStages.1.labelMale>
+  <Zebra.lifeStages.1.labelMalePlural>male zebras</Zebra.lifeStages.1.labelMalePlural>
+  <Zebra.lifeStages.1.labelFemale>female zebra</Zebra.lifeStages.1.labelFemale>
+  <Zebra.lifeStages.1.labelFemalePlural>female zebras</Zebra.lifeStages.1.labelFemalePlural>
+  <Zebra.lifeStages.2.label>zebra</Zebra.lifeStages.2.label>
+  <Zebra.lifeStages.2.labelPlural>zebra</Zebra.lifeStages.2.labelPlural>
+  <Zebra.lifeStages.2.labelMale>male zebra</Zebra.lifeStages.2.labelMale>
+  <Zebra.lifeStages.2.labelMalePlural>male zebras</Zebra.lifeStages.2.labelMalePlural>
+  <Zebra.lifeStages.2.labelFemale>female zebra</Zebra.lifeStages.2.labelFemale>
+  <Zebra.lifeStages.2.labelFemalePlural>female zebras</Zebra.lifeStages.2.labelFemalePlural>
+  <Zebra.labelMale>male zebra</Zebra.labelMale>
+  <Zebra.labelMalePlural>male zebras</Zebra.labelMalePlural>
+  <Zebra.labelFemale>female zebra</Zebra.labelFemale>
+  <Zebra.labelFemalePlural>female zebras</Zebra.labelFemalePlural>
+
+
+</LanguageData>

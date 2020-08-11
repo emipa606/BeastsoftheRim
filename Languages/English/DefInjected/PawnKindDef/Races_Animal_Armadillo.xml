@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Armadillo.label>armadillo</Armadillo.label>
+  <Armadillo.labelPlural>armadillos</Armadillo.labelPlural>
+  <Armadillo.lifeStages.0.label>armadillo</Armadillo.lifeStages.0.label>
+  <Armadillo.lifeStages.0.labelPlural>armadillo</Armadillo.lifeStages.0.labelPlural>
+  <Armadillo.lifeStages.0.labelMale>male armadillo</Armadillo.lifeStages.0.labelMale>
+  <Armadillo.lifeStages.0.labelMalePlural>male armadillos</Armadillo.lifeStages.0.labelMalePlural>
+  <Armadillo.lifeStages.0.labelFemale>female armadillo</Armadillo.lifeStages.0.labelFemale>
+  <Armadillo.lifeStages.0.labelFemalePlural>female armadillos</Armadillo.lifeStages.0.labelFemalePlural>
+  <Armadillo.lifeStages.1.label>armadillo</Armadillo.lifeStages.1.label>
+  <Armadillo.lifeStages.1.labelPlural>armadillo</Armadillo.lifeStages.1.labelPlural>
+  <Armadillo.lifeStages.1.labelMale>male armadillo</Armadillo.lifeStages.1.labelMale>
+  <Armadillo.lifeStages.1.labelMalePlural>male armadillos</Armadillo.lifeStages.1.labelMalePlural>
+  <Armadillo.lifeStages.1.labelFemale>female armadillo</Armadillo.lifeStages.1.labelFemale>
+  <Armadillo.lifeStages.1.labelFemalePlural>female armadillos</Armadillo.lifeStages.1.labelFemalePlural>
+  <Armadillo.lifeStages.2.label>armadillo</Armadillo.lifeStages.2.label>
+  <Armadillo.lifeStages.2.labelPlural>armadillo</Armadillo.lifeStages.2.labelPlural>
+  <Armadillo.lifeStages.2.labelMale>male armadillo</Armadillo.lifeStages.2.labelMale>
+  <Armadillo.lifeStages.2.labelMalePlural>male armadillos</Armadillo.lifeStages.2.labelMalePlural>
+  <Armadillo.lifeStages.2.labelFemale>female armadillo</Armadillo.lifeStages.2.labelFemale>
+  <Armadillo.lifeStages.2.labelFemalePlural>female armadillos</Armadillo.lifeStages.2.labelFemalePlural>
+  <Armadillo.labelMale>male armadillo</Armadillo.labelMale>
+  <Armadillo.labelMalePlural>male armadillos</Armadillo.labelMalePlural>
+  <Armadillo.labelFemale>female armadillo</Armadillo.labelFemale>
+  <Armadillo.labelFemalePlural>female armadillos</Armadillo.labelFemalePlural>
+
+
+</LanguageData>

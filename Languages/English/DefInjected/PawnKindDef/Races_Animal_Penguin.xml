@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Penguin.label>penguin</Penguin.label>
+  <Penguin.labelPlural>penguins</Penguin.labelPlural>
+  <Penguin.lifeStages.0.label>penguin</Penguin.lifeStages.0.label>
+  <Penguin.lifeStages.0.labelPlural>penguin</Penguin.lifeStages.0.labelPlural>
+  <Penguin.lifeStages.0.labelMale>male penguin</Penguin.lifeStages.0.labelMale>
+  <Penguin.lifeStages.0.labelMalePlural>male penguins</Penguin.lifeStages.0.labelMalePlural>
+  <Penguin.lifeStages.0.labelFemale>female penguin</Penguin.lifeStages.0.labelFemale>
+  <Penguin.lifeStages.0.labelFemalePlural>female penguins</Penguin.lifeStages.0.labelFemalePlural>
+  <Penguin.lifeStages.1.label>penguin</Penguin.lifeStages.1.label>
+  <Penguin.lifeStages.1.labelPlural>penguin</Penguin.lifeStages.1.labelPlural>
+  <Penguin.lifeStages.1.labelMale>male penguin</Penguin.lifeStages.1.labelMale>
+  <Penguin.lifeStages.1.labelMalePlural>male penguins</Penguin.lifeStages.1.labelMalePlural>
+  <Penguin.lifeStages.1.labelFemale>female penguin</Penguin.lifeStages.1.labelFemale>
+  <Penguin.lifeStages.1.labelFemalePlural>female penguins</Penguin.lifeStages.1.labelFemalePlural>
+  <Penguin.lifeStages.2.label>penguin</Penguin.lifeStages.2.label>
+  <Penguin.lifeStages.2.labelPlural>penguin</Penguin.lifeStages.2.labelPlural>
+  <Penguin.lifeStages.2.labelMale>male penguin</Penguin.lifeStages.2.labelMale>
+  <Penguin.lifeStages.2.labelMalePlural>male penguins</Penguin.lifeStages.2.labelMalePlural>
+  <Penguin.lifeStages.2.labelFemale>female penguin</Penguin.lifeStages.2.labelFemale>
+  <Penguin.lifeStages.2.labelFemalePlural>female penguins</Penguin.lifeStages.2.labelFemalePlural>
+  <Penguin.labelMale>male penguin</Penguin.labelMale>
+  <Penguin.labelMalePlural>male penguins</Penguin.labelMalePlural>
+  <Penguin.labelFemale>female penguin</Penguin.labelFemale>
+  <Penguin.labelFemalePlural>female penguins</Penguin.labelFemalePlural>
+
+
+</LanguageData>
