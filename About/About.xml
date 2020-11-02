@@ -6,24 +6,28 @@
   <url>https://github.com/emipa606/BeastsoftheRim</url>
   <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
     <li>lbeaston.ADogSaidEasyPatcher</li>
   </loadAfter>
-  <description>Update Hey my team rules!s mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update Hey my team rules!s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=767300413
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/BeastsoftheRim
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/BeastsoftheRim][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 Hey all,
 
 I decided to start working on an animal mod for RimWorld called Beasts of the Rim. So far the mod adds 18 new wild animals to the biomes of RimWorld.
@@ -52,7 +56,7 @@ Zebra: A black and white striped herbivore. They are stubborn and have never bee
 You can download the A17 mod files by following this link: https://www.dropbox.com/s/z0clfuulxqh85hs/Beasts%20of%20the%20Rim%20A17.zip?dl=0
 Let me know of any suggestions or improvements if you come up with any. Thanks.
 
-For compatibility between Beasts of the Rim and A Dog Said use LBE's ADS Easy Patcher! Use the easy patcher if you are using muliple race/animal mods.
+For compatibility between Beasts of the Rim and A Dog Said use [url=http://steamcommunity.com/sharedfiles/filedetails/?id=944381237]LBE's ADS Easy Patcher![/url] Use the easy patcher if you are using muliple race/animal mods.
 
 If you want a version of the mod that doesn't add any humanoid creatures to RimWorld, then please follow the link to Beasts of the Rim (Classic): http://steamcommunity.com/sharedfiles/filedetails/?id=949084914</description>
 </ModMetaData>

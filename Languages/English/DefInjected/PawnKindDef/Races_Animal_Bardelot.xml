@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Bardelot.label>bardelot</Bardelot.label>
-  <Bardelot.labelPlural>bardelots</Bardelot.labelPlural>
-  <Bardelot.lifeStages.0.label>bardelot</Bardelot.lifeStages.0.label>
-  <Bardelot.lifeStages.0.labelPlural>bardelot</Bardelot.lifeStages.0.labelPlural>
-  <Bardelot.lifeStages.0.labelMale>male bardelot</Bardelot.lifeStages.0.labelMale>
-  <Bardelot.lifeStages.0.labelMalePlural>male bardelots</Bardelot.lifeStages.0.labelMalePlural>
-  <Bardelot.lifeStages.0.labelFemale>female bardelot</Bardelot.lifeStages.0.labelFemale>
-  <Bardelot.lifeStages.0.labelFemalePlural>female bardelots</Bardelot.lifeStages.0.labelFemalePlural>
-  <Bardelot.lifeStages.1.label>bardelot</Bardelot.lifeStages.1.label>
-  <Bardelot.lifeStages.1.labelPlural>bardelot</Bardelot.lifeStages.1.labelPlural>
-  <Bardelot.lifeStages.1.labelMale>male bardelot</Bardelot.lifeStages.1.labelMale>
-  <Bardelot.lifeStages.1.labelMalePlural>male bardelots</Bardelot.lifeStages.1.labelMalePlural>
-  <Bardelot.lifeStages.1.labelFemale>female bardelot</Bardelot.lifeStages.1.labelFemale>
-  <Bardelot.lifeStages.1.labelFemalePlural>female bardelots</Bardelot.lifeStages.1.labelFemalePlural>
-  <Bardelot.lifeStages.2.label>bardelot</Bardelot.lifeStages.2.label>
-  <Bardelot.lifeStages.2.labelPlural>bardelot</Bardelot.lifeStages.2.labelPlural>
-  <Bardelot.lifeStages.2.labelMale>male bardelot</Bardelot.lifeStages.2.labelMale>
-  <Bardelot.lifeStages.2.labelMalePlural>male bardelots</Bardelot.lifeStages.2.labelMalePlural>
-  <Bardelot.lifeStages.2.labelFemale>female bardelot</Bardelot.lifeStages.2.labelFemale>
-  <Bardelot.lifeStages.2.labelFemalePlural>female bardelots</Bardelot.lifeStages.2.labelFemalePlural>
-  <Bardelot.labelMale>male bardelot</Bardelot.labelMale>
-  <Bardelot.labelMalePlural>male bardelots</Bardelot.labelMalePlural>
-  <Bardelot.labelFemale>female bardelot</Bardelot.labelFemale>
-  <Bardelot.labelFemalePlural>female bardelots</Bardelot.labelFemalePlural>
-
+  <!--<Bardelot.label>bardelot</Bardelot.label>-->
+  <!--<Bardelot.labelPlural>bardelots</Bardelot.labelPlural>-->
+  <!--<Bardelot.lifeStages.0.label>bardelot</Bardelot.lifeStages.0.label>-->
+  <!--<Bardelot.lifeStages.0.labelPlural>bardelot</Bardelot.lifeStages.0.labelPlural>-->
+  <!--<Bardelot.lifeStages.0.labelMale>male bardelot</Bardelot.lifeStages.0.labelMale>-->
+  <!--<Bardelot.lifeStages.0.labelMalePlural>male bardelots</Bardelot.lifeStages.0.labelMalePlural>-->
+  <!--<Bardelot.lifeStages.0.labelFemale>female bardelot</Bardelot.lifeStages.0.labelFemale>-->
+  <!--<Bardelot.lifeStages.0.labelFemalePlural>female bardelots</Bardelot.lifeStages.0.labelFemalePlural>-->
+  <!--<Bardelot.lifeStages.1.label>bardelot</Bardelot.lifeStages.1.label>-->
+  <!--<Bardelot.lifeStages.1.labelPlural>bardelot</Bardelot.lifeStages.1.labelPlural>-->
+  <!--<Bardelot.lifeStages.1.labelMale>male bardelot</Bardelot.lifeStages.1.labelMale>-->
+  <!--<Bardelot.lifeStages.1.labelMalePlural>male bardelots</Bardelot.lifeStages.1.labelMalePlural>-->
+  <!--<Bardelot.lifeStages.1.labelFemale>female bardelot</Bardelot.lifeStages.1.labelFemale>-->
+  <!--<Bardelot.lifeStages.1.labelFemalePlural>female bardelots</Bardelot.lifeStages.1.labelFemalePlural>-->
+  <!--<Bardelot.lifeStages.2.label>bardelot</Bardelot.lifeStages.2.label>-->
+  <!--<Bardelot.lifeStages.2.labelPlural>bardelot</Bardelot.lifeStages.2.labelPlural>-->
+  <!--<Bardelot.lifeStages.2.labelMale>male bardelot</Bardelot.lifeStages.2.labelMale>-->
+  <!--<Bardelot.lifeStages.2.labelMalePlural>male bardelots</Bardelot.lifeStages.2.labelMalePlural>-->
+  <!--<Bardelot.lifeStages.2.labelFemale>female bardelot</Bardelot.lifeStages.2.labelFemale>-->
+  <!--<Bardelot.lifeStages.2.labelFemalePlural>female bardelots</Bardelot.lifeStages.2.labelFemalePlural>-->
+  <!--<Bardelot.labelMale>male bardelot</Bardelot.labelMale>-->
+  <!--<Bardelot.labelMalePlural>male bardelots</Bardelot.labelMalePlural>-->
+  <!--<Bardelot.labelFemale>female bardelot</Bardelot.labelFemale>-->
+  <!--<Bardelot.labelFemalePlural>female bardelots</Bardelot.labelFemalePlural>-->
 
 </LanguageData>

@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Yippa.label>yippa</Yippa.label>
-  <Yippa.labelPlural>yippas</Yippa.labelPlural>
-  <Yippa.lifeStages.0.label>yippa</Yippa.lifeStages.0.label>
-  <Yippa.lifeStages.0.labelPlural>yippa</Yippa.lifeStages.0.labelPlural>
-  <Yippa.lifeStages.0.labelMale>male yippa</Yippa.lifeStages.0.labelMale>
-  <Yippa.lifeStages.0.labelMalePlural>male yippas</Yippa.lifeStages.0.labelMalePlural>
-  <Yippa.lifeStages.0.labelFemale>female yippa</Yippa.lifeStages.0.labelFemale>
-  <Yippa.lifeStages.0.labelFemalePlural>female yippas</Yippa.lifeStages.0.labelFemalePlural>
-  <Yippa.lifeStages.1.label>yippa</Yippa.lifeStages.1.label>
-  <Yippa.lifeStages.1.labelPlural>yippa</Yippa.lifeStages.1.labelPlural>
-  <Yippa.lifeStages.1.labelMale>male yippa</Yippa.lifeStages.1.labelMale>
-  <Yippa.lifeStages.1.labelMalePlural>male yippas</Yippa.lifeStages.1.labelMalePlural>
-  <Yippa.lifeStages.1.labelFemale>female yippa</Yippa.lifeStages.1.labelFemale>
-  <Yippa.lifeStages.1.labelFemalePlural>female yippas</Yippa.lifeStages.1.labelFemalePlural>
-  <Yippa.lifeStages.2.label>yippa</Yippa.lifeStages.2.label>
-  <Yippa.lifeStages.2.labelPlural>yippa</Yippa.lifeStages.2.labelPlural>
-  <Yippa.lifeStages.2.labelMale>male yippa</Yippa.lifeStages.2.labelMale>
-  <Yippa.lifeStages.2.labelMalePlural>male yippas</Yippa.lifeStages.2.labelMalePlural>
-  <Yippa.lifeStages.2.labelFemale>female yippa</Yippa.lifeStages.2.labelFemale>
-  <Yippa.lifeStages.2.labelFemalePlural>female yippas</Yippa.lifeStages.2.labelFemalePlural>
-  <Yippa.labelMale>male yippa</Yippa.labelMale>
-  <Yippa.labelMalePlural>male yippas</Yippa.labelMalePlural>
-  <Yippa.labelFemale>female yippa</Yippa.labelFemale>
-  <Yippa.labelFemalePlural>female yippas</Yippa.labelFemalePlural>
-
+  <!--<Yippa.label>yippa</Yippa.label>-->
+  <!--<Yippa.labelPlural>yippas</Yippa.labelPlural>-->
+  <!--<Yippa.lifeStages.0.label>yippa</Yippa.lifeStages.0.label>-->
+  <!--<Yippa.lifeStages.0.labelPlural>yippa</Yippa.lifeStages.0.labelPlural>-->
+  <!--<Yippa.lifeStages.0.labelMale>male yippa</Yippa.lifeStages.0.labelMale>-->
+  <!--<Yippa.lifeStages.0.labelMalePlural>male yippas</Yippa.lifeStages.0.labelMalePlural>-->
+  <!--<Yippa.lifeStages.0.labelFemale>female yippa</Yippa.lifeStages.0.labelFemale>-->
+  <!--<Yippa.lifeStages.0.labelFemalePlural>female yippas</Yippa.lifeStages.0.labelFemalePlural>-->
+  <!--<Yippa.lifeStages.1.label>yippa</Yippa.lifeStages.1.label>-->
+  <!--<Yippa.lifeStages.1.labelPlural>yippa</Yippa.lifeStages.1.labelPlural>-->
+  <!--<Yippa.lifeStages.1.labelMale>male yippa</Yippa.lifeStages.1.labelMale>-->
+  <!--<Yippa.lifeStages.1.labelMalePlural>male yippas</Yippa.lifeStages.1.labelMalePlural>-->
+  <!--<Yippa.lifeStages.1.labelFemale>female yippa</Yippa.lifeStages.1.labelFemale>-->
+  <!--<Yippa.lifeStages.1.labelFemalePlural>female yippas</Yippa.lifeStages.1.labelFemalePlural>-->
+  <!--<Yippa.lifeStages.2.label>yippa</Yippa.lifeStages.2.label>-->
+  <!--<Yippa.lifeStages.2.labelPlural>yippa</Yippa.lifeStages.2.labelPlural>-->
+  <!--<Yippa.lifeStages.2.labelMale>male yippa</Yippa.lifeStages.2.labelMale>-->
+  <!--<Yippa.lifeStages.2.labelMalePlural>male yippas</Yippa.lifeStages.2.labelMalePlural>-->
+  <!--<Yippa.lifeStages.2.labelFemale>female yippa</Yippa.lifeStages.2.labelFemale>-->
+  <!--<Yippa.lifeStages.2.labelFemalePlural>female yippas</Yippa.lifeStages.2.labelFemalePlural>-->
+  <!--<Yippa.labelMale>male yippa</Yippa.labelMale>-->
+  <!--<Yippa.labelMalePlural>male yippas</Yippa.labelMalePlural>-->
+  <!--<Yippa.labelFemale>female yippa</Yippa.labelFemale>-->
+  <!--<Yippa.labelFemalePlural>female yippas</Yippa.labelFemalePlural>-->
 
 </LanguageData>

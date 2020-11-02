@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BlackBearMan.label>black bear man</BlackBearMan.label>
-  <BlackBearMan.labelPlural>black bear mans</BlackBearMan.labelPlural>
-  <BlackBearMan.lifeStages.0.label>black bear man</BlackBearMan.lifeStages.0.label>
-  <BlackBearMan.lifeStages.0.labelPlural>black bear man</BlackBearMan.lifeStages.0.labelPlural>
-  <BlackBearMan.lifeStages.0.labelMale>male black bear man</BlackBearMan.lifeStages.0.labelMale>
-  <BlackBearMan.lifeStages.0.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.0.labelMalePlural>
-  <BlackBearMan.lifeStages.0.labelFemale>female black bear man</BlackBearMan.lifeStages.0.labelFemale>
-  <BlackBearMan.lifeStages.0.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.0.labelFemalePlural>
-  <BlackBearMan.lifeStages.1.label>black bear man</BlackBearMan.lifeStages.1.label>
-  <BlackBearMan.lifeStages.1.labelPlural>black bear man</BlackBearMan.lifeStages.1.labelPlural>
-  <BlackBearMan.lifeStages.1.labelMale>male black bear man</BlackBearMan.lifeStages.1.labelMale>
-  <BlackBearMan.lifeStages.1.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.1.labelMalePlural>
-  <BlackBearMan.lifeStages.1.labelFemale>female black bear man</BlackBearMan.lifeStages.1.labelFemale>
-  <BlackBearMan.lifeStages.1.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.1.labelFemalePlural>
-  <BlackBearMan.lifeStages.2.label>black bear man</BlackBearMan.lifeStages.2.label>
-  <BlackBearMan.lifeStages.2.labelPlural>black bear man</BlackBearMan.lifeStages.2.labelPlural>
-  <BlackBearMan.lifeStages.2.labelMale>male black bear man</BlackBearMan.lifeStages.2.labelMale>
-  <BlackBearMan.lifeStages.2.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.2.labelMalePlural>
-  <BlackBearMan.lifeStages.2.labelFemale>female black bear man</BlackBearMan.lifeStages.2.labelFemale>
-  <BlackBearMan.lifeStages.2.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.2.labelFemalePlural>
-  <BlackBearMan.labelMale>male black bear man</BlackBearMan.labelMale>
-  <BlackBearMan.labelMalePlural>male black bear mans</BlackBearMan.labelMalePlural>
-  <BlackBearMan.labelFemale>female black bear man</BlackBearMan.labelFemale>
-  <BlackBearMan.labelFemalePlural>female black bear mans</BlackBearMan.labelFemalePlural>
-
+  <!--<BlackBearMan.label>black bear man</BlackBearMan.label>-->
+  <!--<BlackBearMan.labelPlural>black bear mans</BlackBearMan.labelPlural>-->
+  <!--<BlackBearMan.lifeStages.0.label>black bear man</BlackBearMan.lifeStages.0.label>-->
+  <!--<BlackBearMan.lifeStages.0.labelPlural>black bear man</BlackBearMan.lifeStages.0.labelPlural>-->
+  <!--<BlackBearMan.lifeStages.0.labelMale>male black bear man</BlackBearMan.lifeStages.0.labelMale>-->
+  <!--<BlackBearMan.lifeStages.0.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.0.labelMalePlural>-->
+  <!--<BlackBearMan.lifeStages.0.labelFemale>female black bear man</BlackBearMan.lifeStages.0.labelFemale>-->
+  <!--<BlackBearMan.lifeStages.0.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.0.labelFemalePlural>-->
+  <!--<BlackBearMan.lifeStages.1.label>black bear man</BlackBearMan.lifeStages.1.label>-->
+  <!--<BlackBearMan.lifeStages.1.labelPlural>black bear man</BlackBearMan.lifeStages.1.labelPlural>-->
+  <!--<BlackBearMan.lifeStages.1.labelMale>male black bear man</BlackBearMan.lifeStages.1.labelMale>-->
+  <!--<BlackBearMan.lifeStages.1.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.1.labelMalePlural>-->
+  <!--<BlackBearMan.lifeStages.1.labelFemale>female black bear man</BlackBearMan.lifeStages.1.labelFemale>-->
+  <!--<BlackBearMan.lifeStages.1.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.1.labelFemalePlural>-->
+  <!--<BlackBearMan.lifeStages.2.label>black bear man</BlackBearMan.lifeStages.2.label>-->
+  <!--<BlackBearMan.lifeStages.2.labelPlural>black bear man</BlackBearMan.lifeStages.2.labelPlural>-->
+  <!--<BlackBearMan.lifeStages.2.labelMale>male black bear man</BlackBearMan.lifeStages.2.labelMale>-->
+  <!--<BlackBearMan.lifeStages.2.labelMalePlural>male black bear mans</BlackBearMan.lifeStages.2.labelMalePlural>-->
+  <!--<BlackBearMan.lifeStages.2.labelFemale>female black bear man</BlackBearMan.lifeStages.2.labelFemale>-->
+  <!--<BlackBearMan.lifeStages.2.labelFemalePlural>female black bear mans</BlackBearMan.lifeStages.2.labelFemalePlural>-->
+  <!--<BlackBearMan.labelMale>male black bear man</BlackBearMan.labelMale>-->
+  <!--<BlackBearMan.labelMalePlural>male black bear mans</BlackBearMan.labelMalePlural>-->
+  <!--<BlackBearMan.labelFemale>female black bear man</BlackBearMan.labelFemale>-->
+  <!--<BlackBearMan.labelFemalePlural>female black bear mans</BlackBearMan.labelFemalePlural>-->
 
 </LanguageData>

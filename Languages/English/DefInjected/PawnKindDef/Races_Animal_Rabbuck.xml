@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Rabbuck.label>rabbuck</Rabbuck.label>
-  <Rabbuck.labelPlural>rabbucks</Rabbuck.labelPlural>
-  <Rabbuck.lifeStages.0.label>rabbuck</Rabbuck.lifeStages.0.label>
-  <Rabbuck.lifeStages.0.labelPlural>rabbuck</Rabbuck.lifeStages.0.labelPlural>
-  <Rabbuck.lifeStages.0.labelMale>male rabbuck</Rabbuck.lifeStages.0.labelMale>
-  <Rabbuck.lifeStages.0.labelMalePlural>male rabbucks</Rabbuck.lifeStages.0.labelMalePlural>
-  <Rabbuck.lifeStages.0.labelFemale>female rabbuck</Rabbuck.lifeStages.0.labelFemale>
-  <Rabbuck.lifeStages.0.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.0.labelFemalePlural>
-  <Rabbuck.lifeStages.1.label>rabbuck</Rabbuck.lifeStages.1.label>
-  <Rabbuck.lifeStages.1.labelPlural>rabbuck</Rabbuck.lifeStages.1.labelPlural>
-  <Rabbuck.lifeStages.1.labelMale>male rabbuck</Rabbuck.lifeStages.1.labelMale>
-  <Rabbuck.lifeStages.1.labelMalePlural>male rabbucks</Rabbuck.lifeStages.1.labelMalePlural>
-  <Rabbuck.lifeStages.1.labelFemale>female rabbuck</Rabbuck.lifeStages.1.labelFemale>
-  <Rabbuck.lifeStages.1.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.1.labelFemalePlural>
-  <Rabbuck.lifeStages.2.label>rabbuck</Rabbuck.lifeStages.2.label>
-  <Rabbuck.lifeStages.2.labelPlural>rabbuck</Rabbuck.lifeStages.2.labelPlural>
-  <Rabbuck.lifeStages.2.labelMale>male rabbuck</Rabbuck.lifeStages.2.labelMale>
-  <Rabbuck.lifeStages.2.labelMalePlural>male rabbucks</Rabbuck.lifeStages.2.labelMalePlural>
-  <Rabbuck.lifeStages.2.labelFemale>female rabbuck</Rabbuck.lifeStages.2.labelFemale>
-  <Rabbuck.lifeStages.2.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.2.labelFemalePlural>
-  <Rabbuck.labelMale>male rabbuck</Rabbuck.labelMale>
-  <Rabbuck.labelMalePlural>male rabbucks</Rabbuck.labelMalePlural>
-  <Rabbuck.labelFemale>female rabbuck</Rabbuck.labelFemale>
-  <Rabbuck.labelFemalePlural>female rabbucks</Rabbuck.labelFemalePlural>
-
+  <!--<Rabbuck.label>rabbuck</Rabbuck.label>-->
+  <!--<Rabbuck.labelPlural>rabbucks</Rabbuck.labelPlural>-->
+  <!--<Rabbuck.lifeStages.0.label>rabbuck</Rabbuck.lifeStages.0.label>-->
+  <!--<Rabbuck.lifeStages.0.labelPlural>rabbuck</Rabbuck.lifeStages.0.labelPlural>-->
+  <!--<Rabbuck.lifeStages.0.labelMale>male rabbuck</Rabbuck.lifeStages.0.labelMale>-->
+  <!--<Rabbuck.lifeStages.0.labelMalePlural>male rabbucks</Rabbuck.lifeStages.0.labelMalePlural>-->
+  <!--<Rabbuck.lifeStages.0.labelFemale>female rabbuck</Rabbuck.lifeStages.0.labelFemale>-->
+  <!--<Rabbuck.lifeStages.0.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.0.labelFemalePlural>-->
+  <!--<Rabbuck.lifeStages.1.label>rabbuck</Rabbuck.lifeStages.1.label>-->
+  <!--<Rabbuck.lifeStages.1.labelPlural>rabbuck</Rabbuck.lifeStages.1.labelPlural>-->
+  <!--<Rabbuck.lifeStages.1.labelMale>male rabbuck</Rabbuck.lifeStages.1.labelMale>-->
+  <!--<Rabbuck.lifeStages.1.labelMalePlural>male rabbucks</Rabbuck.lifeStages.1.labelMalePlural>-->
+  <!--<Rabbuck.lifeStages.1.labelFemale>female rabbuck</Rabbuck.lifeStages.1.labelFemale>-->
+  <!--<Rabbuck.lifeStages.1.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.1.labelFemalePlural>-->
+  <!--<Rabbuck.lifeStages.2.label>rabbuck</Rabbuck.lifeStages.2.label>-->
+  <!--<Rabbuck.lifeStages.2.labelPlural>rabbuck</Rabbuck.lifeStages.2.labelPlural>-->
+  <!--<Rabbuck.lifeStages.2.labelMale>male rabbuck</Rabbuck.lifeStages.2.labelMale>-->
+  <!--<Rabbuck.lifeStages.2.labelMalePlural>male rabbucks</Rabbuck.lifeStages.2.labelMalePlural>-->
+  <!--<Rabbuck.lifeStages.2.labelFemale>female rabbuck</Rabbuck.lifeStages.2.labelFemale>-->
+  <!--<Rabbuck.lifeStages.2.labelFemalePlural>female rabbucks</Rabbuck.lifeStages.2.labelFemalePlural>-->
+  <!--<Rabbuck.labelMale>male rabbuck</Rabbuck.labelMale>-->
+  <!--<Rabbuck.labelMalePlural>male rabbucks</Rabbuck.labelMalePlural>-->
+  <!--<Rabbuck.labelFemale>female rabbuck</Rabbuck.labelFemale>-->
+  <!--<Rabbuck.labelFemalePlural>female rabbucks</Rabbuck.labelFemalePlural>-->
 
 </LanguageData>

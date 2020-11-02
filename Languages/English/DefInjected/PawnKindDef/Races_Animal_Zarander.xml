@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Zarander.label>zarander</Zarander.label>
-  <Zarander.labelPlural>zaranders</Zarander.labelPlural>
-  <Zarander.lifeStages.0.label>ziglet</Zarander.lifeStages.0.label>
-  <Zarander.lifeStages.0.labelPlural>ziglets</Zarander.lifeStages.0.labelPlural>
-  <Zarander.lifeStages.0.labelMale>male ziglet</Zarander.lifeStages.0.labelMale>
-  <Zarander.lifeStages.0.labelMalePlural>male ziglets</Zarander.lifeStages.0.labelMalePlural>
-  <Zarander.lifeStages.0.labelFemale>female ziglet</Zarander.lifeStages.0.labelFemale>
-  <Zarander.lifeStages.0.labelFemalePlural>female ziglets</Zarander.lifeStages.0.labelFemalePlural>
-  <Zarander.lifeStages.1.label>zarander</Zarander.lifeStages.1.label>
-  <Zarander.lifeStages.1.labelPlural>zarander</Zarander.lifeStages.1.labelPlural>
-  <Zarander.lifeStages.1.labelMale>male zarander</Zarander.lifeStages.1.labelMale>
-  <Zarander.lifeStages.1.labelMalePlural>male zaranders</Zarander.lifeStages.1.labelMalePlural>
-  <Zarander.lifeStages.1.labelFemale>female zarander</Zarander.lifeStages.1.labelFemale>
-  <Zarander.lifeStages.1.labelFemalePlural>female zaranders</Zarander.lifeStages.1.labelFemalePlural>
-  <Zarander.lifeStages.2.label>zarander</Zarander.lifeStages.2.label>
-  <Zarander.lifeStages.2.labelPlural>zarander</Zarander.lifeStages.2.labelPlural>
-  <Zarander.lifeStages.2.labelMale>male zarander</Zarander.lifeStages.2.labelMale>
-  <Zarander.lifeStages.2.labelMalePlural>male zaranders</Zarander.lifeStages.2.labelMalePlural>
-  <Zarander.lifeStages.2.labelFemale>female zarander</Zarander.lifeStages.2.labelFemale>
-  <Zarander.lifeStages.2.labelFemalePlural>female zaranders</Zarander.lifeStages.2.labelFemalePlural>
-  <Zarander.labelMale>male zarander</Zarander.labelMale>
-  <Zarander.labelMalePlural>male zaranders</Zarander.labelMalePlural>
-  <Zarander.labelFemale>female zarander</Zarander.labelFemale>
-  <Zarander.labelFemalePlural>female zaranders</Zarander.labelFemalePlural>
-
+  <!--<Zarander.label>zarander</Zarander.label>-->
+  <!--<Zarander.labelPlural>zaranders</Zarander.labelPlural>-->
+  <!--<Zarander.lifeStages.0.label>ziglet</Zarander.lifeStages.0.label>-->
+  <!--<Zarander.lifeStages.0.labelPlural>ziglets</Zarander.lifeStages.0.labelPlural>-->
+  <!--<Zarander.lifeStages.0.labelMale>male ziglet</Zarander.lifeStages.0.labelMale>-->
+  <!--<Zarander.lifeStages.0.labelMalePlural>male ziglets</Zarander.lifeStages.0.labelMalePlural>-->
+  <!--<Zarander.lifeStages.0.labelFemale>female ziglet</Zarander.lifeStages.0.labelFemale>-->
+  <!--<Zarander.lifeStages.0.labelFemalePlural>female ziglets</Zarander.lifeStages.0.labelFemalePlural>-->
+  <!--<Zarander.lifeStages.1.label>zarander</Zarander.lifeStages.1.label>-->
+  <!--<Zarander.lifeStages.1.labelPlural>zarander</Zarander.lifeStages.1.labelPlural>-->
+  <!--<Zarander.lifeStages.1.labelMale>male zarander</Zarander.lifeStages.1.labelMale>-->
+  <!--<Zarander.lifeStages.1.labelMalePlural>male zaranders</Zarander.lifeStages.1.labelMalePlural>-->
+  <!--<Zarander.lifeStages.1.labelFemale>female zarander</Zarander.lifeStages.1.labelFemale>-->
+  <!--<Zarander.lifeStages.1.labelFemalePlural>female zaranders</Zarander.lifeStages.1.labelFemalePlural>-->
+  <!--<Zarander.lifeStages.2.label>zarander</Zarander.lifeStages.2.label>-->
+  <!--<Zarander.lifeStages.2.labelPlural>zarander</Zarander.lifeStages.2.labelPlural>-->
+  <!--<Zarander.lifeStages.2.labelMale>male zarander</Zarander.lifeStages.2.labelMale>-->
+  <!--<Zarander.lifeStages.2.labelMalePlural>male zaranders</Zarander.lifeStages.2.labelMalePlural>-->
+  <!--<Zarander.lifeStages.2.labelFemale>female zarander</Zarander.lifeStages.2.labelFemale>-->
+  <!--<Zarander.lifeStages.2.labelFemalePlural>female zaranders</Zarander.lifeStages.2.labelFemalePlural>-->
+  <!--<Zarander.labelMale>male zarander</Zarander.labelMale>-->
+  <!--<Zarander.labelMalePlural>male zaranders</Zarander.labelMalePlural>-->
+  <!--<Zarander.labelFemale>female zarander</Zarander.labelFemale>-->
+  <!--<Zarander.labelFemalePlural>female zaranders</Zarander.labelFemalePlural>-->
 
 </LanguageData>
