@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_AlligatorMan</defName>
+    <label>alligatorman skin</label>
+    <graphicData>
+      <color>(83,67,53)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(83,67,53)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Armadillo</defName>
+    <label>armadillo skin</label>
+    <graphicData>
+      <color>(185,125,79)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(185,125,79)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Bardelot</defName>
+    <label>bardelot hide</label>
+    <graphicData>
+      <color>(227,227,227)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(227,227,227)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_BlackBear</defName>
+    <label>black bear leather</label>
+    <graphicData>
+      <color>(17,21,30)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(17,21,30)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_BlackBearMan</defName>
+    <label>black bear man leather</label>
+    <graphicData>
+      <color>(5,13,31)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(5,13,31)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Giantala</defName>
+    <label>giantala leather</label>
+    <graphicData>
+      <color>(189,161,116)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(189,161,116)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Worm</defName>
+    <label>worm leather</label>
+    <graphicData>
+      <color>(179,127,154)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(179,127,154)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Gigantelope</defName>
+    <label>gigantelope leather</label>
+    <graphicData>
+      <color>(152,170,174)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(152,170,174)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Jerbal</defName>
+    <label>jerbal leather</label>
+    <graphicData>
+      <color>(224,199,123)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(224,199,123)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Mandrill</defName>
+    <label>mandrill leather</label>
+    <graphicData>
+      <color>(51,56,66)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(51,56,66)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_MandrillMan</defName>
+    <label>mandrill man leather</label>
+    <graphicData>
+      <color>(224,199,123)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(224,199,123)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Megasquid</defName>
+    <label>megasquid leather</label>
+    <graphicData>
+      <color>(214,159,58)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(214,159,58)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Neanderthal</defName>
+    <label>neanderthal leather</label>
+    <graphicData>
+      <color>(250,198,165)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(250,198,165)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Penguin</defName>
+    <label>penguin leather</label>
+    <graphicData>
+      <color>(20,20,20)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(20,20,20)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Rabbuck</defName>
+    <label>rabbuck leather</label>
+    <graphicData>
+      <color>(162,106,57)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(162,106,57)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Toraton</defName>
+    <label>toraton leather</label>
+    <graphicData>
+      <color>(20,20,20)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(20,20,20)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Yippa</defName>
+    <label>yippa leather</label>
+    <graphicData>
+      <color>(162,106,57)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(162,106,57)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Zarander</defName>
+    <label>zarander leather</label>
+    <graphicData>
+      <color>(174,150,126)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(174,150,126)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Zebra</defName>
+    <label>zebra leather</label>
+    <graphicData>
+      <color>(162,106,57)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(162,106,57)</color>
+      <commonality>0.2</commonality>
+    </stuffProps>
+  </ThingDef>
+</Defs>
