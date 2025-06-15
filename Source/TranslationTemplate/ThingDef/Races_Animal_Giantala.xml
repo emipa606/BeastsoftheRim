@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: giantala -->
+  <Giantala.label>giantala</Giantala.label>
+  <!-- EN: A large ground sloth-like marsupial that lives in the undergrowth of the tropical forests. Its giant tail acts as an extra leg to help it stand upright. -->
+  <Giantala.description>A large ground sloth-like marsupial that lives in the undergrowth of the tropical forests. Its giant tail acts as an extra leg to help it stand upright.</Giantala.description>
+  <!-- EN: left claw -->
+  <Giantala.tools.left_claw.label>left claw</Giantala.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Giantala.tools.right_claw.label>right claw</Giantala.tools.right_claw.label>
+  <!-- EN: head -->
+  <Giantala.tools.head.label>head</Giantala.tools.head.label>
+</LanguageData>

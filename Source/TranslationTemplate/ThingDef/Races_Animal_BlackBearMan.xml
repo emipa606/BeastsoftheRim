@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black bear man -->
+  <BlackBearMan.label>black bear man</BlackBearMan.label>
+  <!-- EN: A large person with the head of a black bear -->
+  <BlackBearMan.description>A large person with the head of a black bear</BlackBearMan.description>
+  <!-- EN: blackbearman meat -->
+  <BlackBearMan.race.meatLabel>blackbearman meat</BlackBearMan.race.meatLabel>
+  <!-- EN: left fist -->
+  <BlackBearMan.tools.left_fist.label>left fist</BlackBearMan.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <BlackBearMan.tools.right_fist.label>right fist</BlackBearMan.tools.right_fist.label>
+  <!-- EN: head -->
+  <BlackBearMan.tools.head.label>head</BlackBearMan.tools.head.label>
+</LanguageData>

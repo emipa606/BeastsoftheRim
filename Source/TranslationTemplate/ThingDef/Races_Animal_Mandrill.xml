@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mandrill -->
+  <Mandrill.label>mandrill</Mandrill.label>
+  <!-- EN: Mandrills are colorful, large monkeys of the old world. Large groups of them live in the tropical rainforests. -->
+  <Mandrill.description>Mandrills are colorful, large monkeys of the old world. Large groups of them live in the tropical rainforests.</Mandrill.description>
+  <!-- EN: mandrill meat -->
+  <Mandrill.race.meatLabel>mandrill meat</Mandrill.race.meatLabel>
+  <!-- EN: left fist -->
+  <Mandrill.tools.left_fist.label>left fist</Mandrill.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mandrill.tools.right_fist.label>right fist</Mandrill.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mandrill.tools.head.label>head</Mandrill.tools.head.label>
+</LanguageData>

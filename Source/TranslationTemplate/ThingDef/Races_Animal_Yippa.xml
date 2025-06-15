@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: yippa -->
+  <Yippa.label>yippa</Yippa.label>
+  <!-- EN: A long necked lama-like herbivore. Native to tropical climates. The upper layers of vegetation are exploited by the yippa. -->
+  <Yippa.description>A long necked lama-like herbivore. Native to tropical climates. The upper layers of vegetation are exploited by the yippa.</Yippa.description>
+  <!-- EN: yippameat -->
+  <Yippa.race.meatLabel>yippameat</Yippa.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Yippa.tools.left_hoof.label>left hoof</Yippa.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Yippa.tools.right_hoof.label>right hoof</Yippa.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Yippa.tools.head.label>head</Yippa.tools.head.label>
+</LanguageData>

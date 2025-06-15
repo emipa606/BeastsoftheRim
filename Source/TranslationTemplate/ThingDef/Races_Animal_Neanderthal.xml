@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: neanderthal -->
+  <Neanderthal.label>neanderthal</Neanderthal.label>
+  <!-- EN: Hunanity's closest relative. Neanderthals communicate using primitive vocalizations without understanding actual language. They are apex predators, capable of bringing down a wide range of prey. -->
+  <Neanderthal.description>Hunanity's closest relative. Neanderthals communicate using primitive vocalizations without understanding actual language. They are apex predators, capable of bringing down a wide range of prey.</Neanderthal.description>
+  <!-- EN: neanderthal meat -->
+  <Neanderthal.race.meatLabel>neanderthal meat</Neanderthal.race.meatLabel>
+  <!-- EN: left fist -->
+  <Neanderthal.tools.left_fist.label>left fist</Neanderthal.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Neanderthal.tools.right_fist.label>right fist</Neanderthal.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Neanderthal.tools.teeth.label>teeth</Neanderthal.tools.teeth.label>
+  <!-- EN: head -->
+  <Neanderthal.tools.head.label>head</Neanderthal.tools.head.label>
+</LanguageData>

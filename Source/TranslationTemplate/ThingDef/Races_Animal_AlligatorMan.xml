@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alligator man -->
+  <AlligatorMan.label>alligator man</AlligatorMan.label>
+  <!-- EN: A large person with the head of an alligator. -->
+  <AlligatorMan.description>A large person with the head of an alligator.</AlligatorMan.description>
+  <!-- EN: alligatorman meat -->
+  <AlligatorMan.race.meatLabel>alligatorman meat</AlligatorMan.race.meatLabel>
+  <!-- EN: left fist -->
+  <AlligatorMan.tools.left_fist.label>left fist</AlligatorMan.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <AlligatorMan.tools.right_fist.label>right fist</AlligatorMan.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <AlligatorMan.tools.teeth.label>teeth</AlligatorMan.tools.teeth.label>
+  <!-- EN: head -->
+  <AlligatorMan.tools.head.label>head</AlligatorMan.tools.head.label>
+</LanguageData>

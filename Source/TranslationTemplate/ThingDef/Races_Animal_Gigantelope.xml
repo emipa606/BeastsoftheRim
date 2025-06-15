@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gigantelope -->
+  <Gigantelope.label>gigantelope</Gigantelope.label>
+  <!-- EN: An enormous creature with short legs. These giant herbivores have long abandoned the antelopes running gait and taken on a plodding existence. -->
+  <Gigantelope.description>An enormous creature with short legs. These giant herbivores have long abandoned the antelopes running gait and taken on a plodding existence.</Gigantelope.description>
+  <!-- EN: head -->
+  <Gigantelope.tools.head.label>head</Gigantelope.tools.head.label>
+</LanguageData>

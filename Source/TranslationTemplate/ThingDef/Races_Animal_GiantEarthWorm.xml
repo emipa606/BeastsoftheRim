@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: worm -->
+  <Worm.label>worm</Worm.label>
+  <!-- EN: A large worm. Its digestive system runs through the length of its body. Worms reproduce quickly. -->
+  <Worm.description>A large worm. Its digestive system runs through the length of its body. Worms reproduce quickly.</Worm.description>
+  <!-- EN: wormflesh -->
+  <Worm.race.meatLabel>wormflesh</Worm.race.meatLabel>
+</LanguageData>

@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 1909618181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a0f4d8463c7686a36316bcee32b1a6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a0f4d8463c7686a36316bcee32b1a6e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthalfem_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/RabbuckPack_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Jerbal_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/YippaPack_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Megasquid_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Worm_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Gigantelope_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthal_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MandrillMan_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/YippaPack_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBear_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Bardelot_side.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/AlligatorMan_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Bardelot_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/ToratonPack_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Megasquid_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Yippa_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Megasquid_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Toraton_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zarander_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/GigantelopePack_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Gigantelope_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Worm_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/ToratonPack_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/AlligatorMan_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Rabbuck_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Armadillo_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBearMan_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBear_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Penguin_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Armadillo_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/RabbuckPack_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBear_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Giantala_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Toraton_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Gigantelope_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/RabbuckPack_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Yippa_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Bardelot_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Mandrill_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/YippaPack_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Jerbal_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zebra_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Giantala_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Toraton_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MegasquidPack_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/ToratonPack_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MandrillMan_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Giantala_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zarander_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Worm_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthalfem_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MegasquidPack_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBearMan_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthalfem_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Mandrill_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/BlackBearMan_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Rabbuck_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zarander_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Armadillo_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/AlligatorMan_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Jerbal_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Mandrill_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/GigantelopePack_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthal_front.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Neanderthal_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/GigantelopePack_east.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MandrillMan_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/MegasquidPack_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Penguin_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zebra_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Yippa_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Zebra_north.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Rabbuck_south.png
+- Assets/Data/Mlie.BeastsoftheRim/Textures/Things/Pawn/Animal/Penguin_south.png
+Dependencies: []

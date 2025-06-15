@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bardelot -->
+  <Bardelot.label>bardelot</Bardelot.label>
+  <!-- EN: A large, migratory, tundra-dwelling predator rat from the Northern Hemisphere tundra. It is capable of producing litters with genetic input from many mates. -->
+  <Bardelot.description>A large, migratory, tundra-dwelling predator rat from the Northern Hemisphere tundra. It is capable of producing litters with genetic input from many mates.</Bardelot.description>
+  <!-- EN: left claw -->
+  <Bardelot.tools.left_claw.label>left claw</Bardelot.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bardelot.tools.right_claw.label>right claw</Bardelot.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bardelot.tools.head.label>head</Bardelot.tools.head.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jerbal -->
+  <Jerbal.label>jerbal</Jerbal.label>
+  <!-- EN: A large kangaroo-like gerbil adapted to desert environments. It uses its tail to store fat. It can go for long periods without eating when food is unavailable. -->
+  <Jerbal.description>A large kangaroo-like gerbil adapted to desert environments. It uses its tail to store fat. It can go for long periods without eating when food is unavailable.</Jerbal.description>
+  <!-- EN: left leg -->
+  <Jerbal.tools.left_leg.label>left leg</Jerbal.tools.left_leg.label>
+  <!-- EN: right leg -->
+  <Jerbal.tools.right_leg.label>right leg</Jerbal.tools.right_leg.label>
+</LanguageData>

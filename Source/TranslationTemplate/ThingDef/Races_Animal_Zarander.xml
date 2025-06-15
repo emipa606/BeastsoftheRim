@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: zarander -->
+  <Zarander.label>zarander</Zarander.label>
+  <!-- EN: The zarander is a large elephant-like suine. Despite its large trunk, it has little sense of smell. It relies on keen hearing to detect predators. -->
+  <Zarander.description>The zarander is a large elephant-like suine. Despite its large trunk, it has little sense of smell. It relies on keen hearing to detect predators.</Zarander.description>
+  <!-- EN: zarandermeat -->
+  <Zarander.race.meatLabel>zarandermeat</Zarander.race.meatLabel>
+</LanguageData>

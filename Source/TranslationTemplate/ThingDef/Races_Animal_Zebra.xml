@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: zebra -->
+  <Zebra.label>zebra</Zebra.label>
+  <!-- EN: A black and white striped herbivore. They are stubborn and have never been truely domesticated. -->
+  <Zebra.description>A black and white striped herbivore. They are stubborn and have never been truely domesticated.</Zebra.description>
+  <!-- EN: zebrameat -->
+  <Zebra.race.meatLabel>zebrameat</Zebra.race.meatLabel>
+  <!-- EN: head -->
+  <Zebra.tools.head.label>head</Zebra.tools.head.label>
+  <!-- EN: left hoof -->
+  <Zebra.tools.left_hoof.label>left hoof</Zebra.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Zebra.tools.right_hoof.label>right hoof</Zebra.tools.right_hoof.label>
+</LanguageData>

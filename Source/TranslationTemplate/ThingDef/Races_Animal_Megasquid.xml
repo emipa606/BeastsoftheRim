@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: megasquid -->
+  <Megasquid.label>megasquid</Megasquid.label>
+  <!-- EN: The megasquid is a large omnivorous terasquid. Heavier than an elephant and almost as tall, a megasquid lumbers through the forest, moving at speeds similar to a human's walking pace. -->
+  <Megasquid.description>The megasquid is a large omnivorous terasquid. Heavier than an elephant and almost as tall, a megasquid lumbers through the forest, moving at speeds similar to a human's walking pace.</Megasquid.description>
+  <!-- EN: calamari -->
+  <Megasquid.race.meatLabel>calamari</Megasquid.race.meatLabel>
+  <!-- EN: tentacle -->
+  <Megasquid.tools.tentacle.label>tentacle</Megasquid.tools.tentacle.label>
+</LanguageData>

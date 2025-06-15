@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black bear -->
+  <BlackBear.label>black bear</BlackBear.label>
+  <!-- EN: Black bears are extremely adaptable and show a great variation in habitat types, though they are primarily found in forested areas with thick ground vegetation and an abundance of fruits, nuts, and vegetation. In the northern areas, they can be found in the tundra, and they will sometimes forage in fields or meadows. -->
+  <BlackBear.description>Black bears are extremely adaptable and show a great variation in habitat types, though they are primarily found in forested areas with thick ground vegetation and an abundance of fruits, nuts, and vegetation. In the northern areas, they can be found in the tundra, and they will sometimes forage in fields or meadows.</BlackBear.description>
+  <!-- EN: bear meat -->
+  <BlackBear.race.meatLabel>bear meat</BlackBear.race.meatLabel>
+  <!-- EN: left claw -->
+  <BlackBear.tools.left_claw.label>left claw</BlackBear.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <BlackBear.tools.right_claw.label>right claw</BlackBear.tools.right_claw.label>
+  <!-- EN: head -->
+  <BlackBear.tools.head.label>head</BlackBear.tools.head.label>
+</LanguageData>

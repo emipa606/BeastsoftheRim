@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: rabbuck -->
+  <Rabbuck.label>rabbuck</Rabbuck.label>
+  <!-- EN: Heavily built with rolls of insulating fat, the rabbuck is found in the far north of the continent, in the region of the tundra and coniferous forests. -->
+  <Rabbuck.description>Heavily built with rolls of insulating fat, the rabbuck is found in the far north of the continent, in the region of the tundra and coniferous forests.</Rabbuck.description>
+  <!-- EN: rabbuck meat -->
+  <Rabbuck.race.meatLabel>rabbuck meat</Rabbuck.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Rabbuck.tools.left_hoof.label>left hoof</Rabbuck.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Rabbuck.tools.right_hoof.label>right hoof</Rabbuck.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Rabbuck.tools.head.label>head</Rabbuck.tools.head.label>
+</LanguageData>

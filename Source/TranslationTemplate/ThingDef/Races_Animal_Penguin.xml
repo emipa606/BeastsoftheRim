@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: penguin -->
+  <Penguin.label>penguin</Penguin.label>
+  <!-- EN: An aquatic, flightless bird native to the coldest climates. Known for their cuteness. They are friendly to humans. -->
+  <Penguin.description>An aquatic, flightless bird native to the coldest climates. Known for their cuteness. They are friendly to humans.</Penguin.description>
+  <!-- EN: penguin meant -->
+  <Penguin.race.meatLabel>penguin meant</Penguin.race.meatLabel>
+  <!-- EN: claws -->
+  <Penguin.tools.claws.label>claws</Penguin.tools.claws.label>
+  <!-- EN: beak -->
+  <Penguin.tools.beak.label>beak</Penguin.tools.beak.label>
+  <!-- EN: head -->
+  <Penguin.tools.head.label>head</Penguin.tools.head.label>
+</LanguageData>

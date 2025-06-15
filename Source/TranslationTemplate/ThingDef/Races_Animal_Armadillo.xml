@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: armadillo -->
+  <Armadillo.label>armadillo</Armadillo.label>
+  <!-- EN: A desert mammal with a leathery armour shell. The armadillo is well-adapted for defense against larger predators. -->
+  <Armadillo.description>A desert mammal with a leathery armour shell. The armadillo is well-adapted for defense against larger predators.</Armadillo.description>
+  <!-- EN: left claw -->
+  <Armadillo.tools.left_claw.label>left claw</Armadillo.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Armadillo.tools.right_claw.label>right claw</Armadillo.tools.right_claw.label>
+  <!-- EN: head -->
+  <Armadillo.tools.head.label>head</Armadillo.tools.head.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mandrill man -->
+  <MandrillMan.label>mandrill man</MandrillMan.label>
+  <!-- EN: A blue-rumped person with the head of a mandrill. -->
+  <MandrillMan.description>A blue-rumped person with the head of a mandrill.</MandrillMan.description>
+  <!-- EN: mandrill man meat -->
+  <MandrillMan.race.meatLabel>mandrill man meat</MandrillMan.race.meatLabel>
+  <!-- EN: left fist -->
+  <MandrillMan.tools.left_fist.label>left fist</MandrillMan.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <MandrillMan.tools.right_fist.label>right fist</MandrillMan.tools.right_fist.label>
+  <!-- EN: head -->
+  <MandrillMan.tools.head.label>head</MandrillMan.tools.head.label>
+</LanguageData>
